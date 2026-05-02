@@ -1,0 +1,28 @@
+{
+  "name": "architecture-site",
+  "version": "1.0.0",
+  "description": "Modern architecture portfolio site with React and Capacitor",
+  "private": true,
+  "scripts": {
+    "install": "cd client && npm install",
+    "start": "cd client && npm start",
+    "build": "cd client && npm run build",
+    "test": "cd client && npm test",
+    "deploy": "cd client && npm run deploy",
+    "eject": "cd client && npm run eject"
+  },
+  "keywords": [
+    "react",
+    "architecture",
+    "portfolio",
+    "capacitor",
+    "mobile"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  }
+}
